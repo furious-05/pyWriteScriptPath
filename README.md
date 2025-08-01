@@ -1,4 +1,4 @@
-# 🛠️ WriteScriptPath Abuse Tool
+# 🛠️ WriteScriptPath Tool
 
 In Active Directory, the **scriptPath** attribute specifies a logon script that runs when a user logs in. This tool helps you upload a script to the SYSVOL share and assign it to a user’s **scriptPath** attribute, enabling automated script execution on user login — useful for administration, automation, or testing.
 
