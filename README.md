@@ -26,7 +26,7 @@ In Active Directory, the `scriptPath` attribute defines a logon script that runs
 ##  Installation
 
 ```bash
-git clone https://github.com/yourname/writescriptpath-exploit.git
+https://github.com/furious-05/pyWriteScriptPath.git
 cd writescriptpath-exploit
 pip install -r requirements.txt
 ````
